@@ -1,6 +1,6 @@
 # Customer-Services-Insights-Dashboard
-
-## 🏨  Hotel Customer Feedback Dashboard
+![image](https://github.com/user-attachments/assets/6174cd39-5dfd-4dd6-82d4-f5bbf57e6b3b)
+Image Credit: TimeOut
 ## 📘 Introduction
 Imagine you've been running a hotel successfully for over 3 years. Consistent operation at that scale indicates a solid management approach. However, true excellence lies in retrospection and continuous improvement. This project is designed to reflect on customer feedback and refine guest services using actionable insights.
 ## 📊 Overview of Dashboard
