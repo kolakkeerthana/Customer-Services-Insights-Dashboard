@@ -1,24 +1,23 @@
 # Customer-Services-Insights-Dashboard
 
-Introduction
+##🏨 Hotel Customer Feedback Dashboard
+📘 Introduction
+Imagine you've been running a hotel successfully for over 3 years. Consistent operation at that scale indicates a solid management approach. However, true excellence lies in retrospection and continuous improvement. This project is designed to reflect on customer feedback and refine guest services using actionable insights.
+
+##📊 Overview of Dashboard
+The dashboard summarizes feedback received from customer surveys and helps identify areas of improvement. The key metrics include:
+Total Number of Responses
+Overall Customer Experience Rating
+Promoters: Guests likely to return or recommend the hotel.
+Detractors: Guests unlikely to return or recommend.
+Net Promoter Score (NPS): An industry-standard score derived from guest ratings and their likelihood to promote your hotel.
 
 
-Imagine you're running a hotel for around 3 years. I believe you're already succesful at that stage, because you cannot run a hotel for 3 years experiencing loss. You definitely might be running it in a well way. so, when we back engineer, look back and check to make necessary modifications and improvise customer service just like the one which we are currently visualising. 
-
-Overview
-
-The dashboard provides insights based on the customer survey recieved from through feedback form. 
-Total number of responses
-Overall Expereince of the hotel
-Promoter : likely to come back
-Detractor : unlikely to come back or refer someone
-Net Promoter Score : score calculated basing customers review about the utilities
-
-Files
-
-a screenshot of dashboard[ you can play with the dashboard here https://public.tableau.com/views/CustomerAnalyticsDashboard_17446698227170/CustomerExperienceSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-Dataset 
-Instructions
+##👉 Interactive Dashboard:  
+[(https://public.tableau.com/views/CustomerAnalyticsDashboard_17446698227170/CustomerExperienceSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)] 
 
 
-Please feel free to suggest any modifications to improvise the dashboard. 
+##📁 Files
+Screenshot of the Dashboard
+Dataset
+Instructions for usage
